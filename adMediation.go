@@ -27,8 +27,7 @@ type adNetwork struct {
 
 var adNetworks []adNetwork
 
-//var filePath = "output.txt"
-var filePath = "C:/Users/Nabernik/Desktop/output.txt"
+var filePath = "output.txt"
 
 func returnAllAdNetworks(w http.ResponseWriter, r *http.Request) {
 	enc := json.NewEncoder(w)
