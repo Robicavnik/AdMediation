@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "description": "admob",
+  "value": 3,
+  "platform": "android",
+  "osversion": "10",
+  "appname": "my talking tom 2",
+  "appversion": "2.4.1",
+  "countrycode": "slo",
+  "adtype": "banner"
+ },
+ {
+  "id": 2,
+  "description": "facebook",
+  "value": 5,
+  "platform": "android",
+  "osversion": "9",
+  "appname": "my talking tom",
+  "appversion": "1.0.3",
+  "countrycode": "slo",
+  "adtype": "reward"
+ },
+ {
+  "id": 3,
+  "description": "unity ads",
+  "value": 31,
+  "platform": "windows",
+  "osversion": "8",
+  "appname": "my talking tom",
+  "appversion": "1.23.2",
+  "countrycode": "uk",
+  "adtype": "interstitial"
+ },
+ {
+  "id": 4,
+  "description": "adx",
+  "value": 37,
+  "platform": "ios",
+  "osversion": "11",
+  "appname": "my talking angela",
+  "appversion": "1.1.1",
+  "countrycode": "usa",
+  "adtype": "reward"
+ },
+ {
+  "id": 5,
+  "description": "admod-optout",
+  "value": 1,
+  "platform": "android",
+  "osversion": "11",
+  "appname": "talking tom gold rush",
+  "appversion": "1.0.0",
+  "countrycode": "br",
+  "adtype": "banner"
+ },
+ {
+  "id": 7,
+  "description": "adx",
+  "value": 8,
+  "platform": "android",
+  "osversion": "11",
+  "appname": "my talking tom",
+  "appversion": "2.4.2",
+  "countrycode": "slo",
+  "adtype": "banner"
+ }
+]
